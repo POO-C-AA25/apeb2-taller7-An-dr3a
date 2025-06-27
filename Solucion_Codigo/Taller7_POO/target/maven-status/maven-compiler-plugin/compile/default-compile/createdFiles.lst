@@ -1,6 +1,9 @@
+Horas.class
 SoportePelicula.class
 DVD.class
+FijosMensuales.class
 MMS.class
+Jefe.class
 Parrafo.class
 Sentencia.class
 Pelicula.class
@@ -10,7 +13,10 @@ Problema3_Mensajes.class
 VHS.class
 Mensajes.class
 Palabras.class
+Comisionistas.class
 SMS.class
 Secciones.class
+Trabajador.class
+Problema4_NominaTrabajadores.class
 CapituloLibro.class
 Problema2_Pelicula.class
